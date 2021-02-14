@@ -1,0 +1,24 @@
+{
+  "name": "serverlessapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "configController.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luemigues/serverlessAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luemigues/serverlessAPI/issues"
+  },
+  "homepage": "https://github.com/luemigues/serverlessAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
